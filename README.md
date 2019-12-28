@@ -16,6 +16,8 @@ A curated list of resources dedicated to Natural Language Processing (NLP) in po
 
 * Word embeddings and language models for polish (Word2vec, fasttext, Glove, Elmo) -  https://github.com/sdadas/polish-nlp-resources
 * Polish Word Embeddings Review - Evaluation of polish word embeddings prepared by various research groups. Evaluation is done by words analogy task https://github.com/Ermlab/polish-word-embeddings-review
+* Computional Linguistics in Poland (CLiP) http://clip.ipipan.waw.pl/: website cotains complex information about tools, resources, research centers and projects related to NLP of Polish
+* AGH DSP: different projects considering use of Polish language, speech mainly http://www.dsp.agh.edu.pl/pl:research:main
 
 ## Reserch papers
 
@@ -31,6 +33,7 @@ A curated list of resources dedicated to Natural Language Processing (NLP) in po
     * Hate speach classification - In this task, the participants are to distinguish between normal/non-harmful tweets (class: 0) and tweets that contain any kind of harmful information (class: 1). This includes cyberbullying, hate speech and related phenomena: [[PolEval 2019 Task6](http://2019.poleval.pl/index.php/tasks/task6)]  [[Ermlab mirror GDrive](https://drive.google.com/drive/folders/1Dp7h9FrejUGK4jOeMsuxObiwP5h4x6q6?usp=sharing)]
 * Ermlab Opineo dataset - https://github.com/Ermlab/pl-sentiment-analysis - [GDrive](https://drive.google.com/file/d/1vXqUEBjUHGGy3vV2dA7LlvBjjZlQnl0D/view?usp=sharing)
 * HateSpeech corpus in the current version contains over 2000 posts crawled from public Polish web. They represent various types and degrees of offensive language, expressed toward minorities (eg. ethnical, racial). The data were annotated manually. http://zil.ipipan.waw.pl/HateSpeech
+* Polish Speech Corpus (DSP AGH) http://www.dsp.agh.edu.pl/en:resources:korpusmowy : 55 hours of annotated Polish speech
 
 
 ## Research Gropus
